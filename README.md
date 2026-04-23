@@ -54,4 +54,22 @@ To enable dynamic analysis, slicers were created for:
 
 # 📊 Dashboard Overview
 ## Dashboard
-![Dashboard image](Excel_Dashboard/Excel Dashboard.png)
+![Dashboard image](Dashboard/Dashboard.png)
+
+## Dashboard With Slicer 
+![Slicer Display](Dashboard/DashboardSlicer.png)
+
+# 🚀 Tools Used
+
+**Microsoft Excel – for data cleaning, analysis, slicers, and visualizations**
+
+# 👤 Author
+
+**Hamiz Ansari** 
+- **GitHub:** [github.com/hamiz-21-07](https://github.com/hamiz-21-7-06)
+- **Email:** [hamizansari06@gmail.com](hamizansari06iqraizhar72@gmail.com)
+
+# 🌟 Feedback & Support
+
+Feel free to share suggestions or compliments — your feedback is appreciated!  
+If you found this project useful, please consider giving it a ⭐️.
